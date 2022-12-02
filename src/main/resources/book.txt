@@ -1,0 +1,4 @@
+title,noOfPages,authors,publisher
+Algorithms Illuminated - Part 3,167,Tim Roughgarden,SoudnLikeYourself
+Algorithms Illuminated - Part 4,223,Tim Roughgarden,SoudnLikeYourself
+Deep Learning for Coders,276,Jermy Howard,OReilly
